@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@arcgis/core": "^4.27.6",
     "vue": "^3.3.4"
   },
   "devDependencies": {
